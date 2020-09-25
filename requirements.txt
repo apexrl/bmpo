@@ -1,5 +1,5 @@
 mujoco-py==1.50.1.68
-tensorflow-gpu==1.13.1
+tensorflow-gpu==1.15.4
 tensorflow-probability==0.6.0
 tqdm==4.32.1
 ray[rllib,debug]==0.6.4
